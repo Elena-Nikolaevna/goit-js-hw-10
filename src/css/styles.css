@@ -22,8 +22,10 @@ body {
 #search-box {
   font: inherit;
   padding: 8px;
-  max-width: 320px;
+  width: 400px;
   margin-bottom: 16px;
+  border-radius: 15;
+  border-color: #530000;
 }
 
 .country-list {
